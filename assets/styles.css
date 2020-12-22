@@ -126,6 +126,9 @@ h1 {
     width: 800px;
     text-align: center;
   }
+  .info {
+    width: 800px;
+  }
   .text {
     display: block;
     width: 90vw;
@@ -155,9 +158,6 @@ h1 {
     border: 13px solid #333;
   }
   .hom {
-    display: none;
-  }
-    .hom {
     display: none;
   }
   .som {
