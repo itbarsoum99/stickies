@@ -125,6 +125,7 @@ h1 {
     position: relative;
     width: 800px;
     text-align: center;
+    min-height: 800px;
   }
   .info {
     width: 800px;
