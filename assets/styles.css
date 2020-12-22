@@ -126,6 +126,7 @@ h1 {
     width: 800px;
     text-align: center;
     min-height: 675px;
+    border-radius: 15px;
   }
   .info {
     width: 800px;
